@@ -7,6 +7,7 @@ module.exports = {
         '!**/.next/**',
         '!next.config.js',
         '!jest.config.js',
+        '!**/pages/_app.js'
     ],
     coverageThreshold: {
         global: {
