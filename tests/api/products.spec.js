@@ -1,4 +1,4 @@
-import apiProducts from "../../pages/api/products";
+import apiProducts from "@pages/api/products";
 
 describe("Api of products", () => {
     let req;
